@@ -1,0 +1,2 @@
+# 202006_JQuery_Vanishing_Ninja
+202006_JQuery_Vanishing_Ninja_Assignment
